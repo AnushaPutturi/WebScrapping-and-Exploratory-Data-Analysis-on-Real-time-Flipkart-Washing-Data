@@ -1,4 +1,10 @@
-# WebScrapping-and-Exploratory-Data-Analysis-on-Real-time-Flipkart-Washing-Data
+# WebScrapping-and-Exploratory-Data-Analysis-on-Real-time-Flipkart-Washing-mechine Data
+Languages used 
+-python
+-numpy
+-pandas
+-EDA
+-stats
 "The main problem which i was identify that product information on e-commerce websites is unstructured, making it difficult to compare prices and features across different brands.”
 “To solve this, I built a Python-based web scraper using Requests and BeautifulSoup to collect washing machine listings.
 I extracted key attributes such as brand, capacity, automation type, load type, current price, original price, discount, ratings, and reviews.”
